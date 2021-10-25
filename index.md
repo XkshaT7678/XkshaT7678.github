@@ -29,8 +29,6 @@
 							<ul>
 								<li><a href="#about">About Me</a></li>
 								<li><a href="#work">My Projects And Skills</a></li>
-								<li><a href="other.html">Hack Social Sites</a></li>
-								<li><a href="matrix.html">What Is Matrix Rain</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
