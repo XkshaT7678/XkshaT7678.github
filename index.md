@@ -62,7 +62,7 @@
 							<article id="about">
 								<h2 class="major">About</h2>
 								<span class="image "><img src="images/picme.png" width="360" height="360" alt="" /></span>
-								<p>Hey my name is Mike (Or as you all knows me as nandydark), I am born in Toronto, the capital of the province of Ontario, is a major Canadian city along Lake Ontario’s northwestern shore. It's a dynamic metropolis with a core of soaring skyscrapers, all dwarfed by the iconic, free-standing CN Tower..</p>
+								<p>Hey my name is Akshat (Or as you all knows me as "Akki ThePro"), I am born in Delhi, the capital of the province of India. It's a dynamic metropolis with a core of soaring skyscrapers, all dwarfed by the iconic, free-standing CN Tower..</p>
 								<p>Coding and programming is my Passion and My life and i loves it</p>
 								<p></p>
 								<h3 class="major">Why i love to code?</h3>
@@ -72,7 +72,7 @@
 								<p></p>
 								
 								<h2>How to contact me?</h2>
-                                <p>You can contact me on My <a href="https://telegram.dog/Akki_ThePro"> Telegram</p> 
+                                <p>You can contact me on My <a href="https://telegram.dog/Akki_ThePro"> Telegram </p> 
                                                             <h2> Something that I had learnt from my life</h2>
 							    <p>The saddest part of life is when the person who gave you the best memories becomes a memory</p>	
 							</article>
@@ -254,7 +254,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 						<div>
 							<p>Contact Me</p>
 							<ul class="icons">
-								<li><a href="https://telegram.dog/Akki_TehPro" class="icon brands fa-telegram"><span class="label">Telegram</span></a></li>
+								<li><a href="https://telegram.dog/Akki_ThePro" class="icon brands fa-telegram"><span class="label">Telegram</span></a></li>
 							</ul>	
                                                 </div>
 					
