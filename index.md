@@ -66,7 +66,7 @@
 								<p>Coding and programming is my Passion and My life and i loves it</p>
 								<p></p>
 								<h3 class="major">Why i love to code?</h3>
-								<span class="image "><img src="https://telegra.ph/file/ae75837515a8a57d50c9e.jpg" width="2480" height="2480" alt="" /></span>
+								<span class="image "><img src="https://telegra.ph/file/ae75837515a8a57d50c9e.jpg" width="420" height="420" alt="" /></span>
 								<p> I love to code because it is usable art.
 									Just like architecture, which is an art used by people daily and affects their everyday life, so is code. You can create something and people interact with, use, touch and work with. That is an amazing feeling</p>
 								<p></p>
@@ -76,13 +76,6 @@
 							    <p>The saddest part of life is when the person who gave you the best memories becomes a memory</p>	
 							</article>
 
-while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
-}
-
-print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 								</section>
 
 								<section>
