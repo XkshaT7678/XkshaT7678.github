@@ -61,7 +61,7 @@
 						<!-- About -->
 							<article id="about">
 								<h2 class="major">About</h2>
-								<span class="image "><img src="images/picme.png" width="360" height="360" alt="" /></span>
+								<span class="image "><img src="https://telegra.ph/file/889b424d79978a10cc68c.jpg" width="240" height="120" alt="" /></span>
 								<p>Hey my name is Akshat (Or as you all knows me as "Akki ThePro"), I am born in Delhi, the capital of the province of India. It's a dynamic metropolis with a core of soaring skyscrapers, all dwarfed by the iconic, free-standing CN Tower..</p>
 								<p>Coding and programming is my Passion and My life and i loves it</p>
 								<p></p>
