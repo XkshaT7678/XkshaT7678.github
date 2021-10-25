@@ -66,7 +66,7 @@
 								<p>Coding and programming is my Passion and My life and i loves it</p>
 								<p></p>
 								<h3 class="major">Why i love to code?</h3>
-								<span class="image "><img src="images/pic05.png" width="360" height="360" alt="" /></span>
+								<span class="image "><img src="https://telegra.ph/file/ae75837515a8a57d50c9e.jpg" width="2480" height="2480" alt="" /></span>
 								<p> I love to code because it is usable art.
 									Just like architecture, which is an art used by people daily and affects their everyday life, so is code. You can create something and people interact with, use, touch and work with. That is an amazing feeling</p>
 								<p></p>
