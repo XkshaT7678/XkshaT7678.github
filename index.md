@@ -71,9 +71,7 @@
 									Just like architecture, which is an art used by people daily and affects their everyday life, so is code. You can create something and people interact with, use, touch and work with. That is an amazing feeling</p>
 								<p></p>
 								
-								<h2>How to contact me?</h2>
-                                <p>You can contact me on My <a href="https://telegram.dog/Akki_ThePro"> Telegram</p> 
-                                                            
+								
                                                             <h2> Something that I had learnt from my life</h2>
 							    <p>The saddest part of life is when the person who gave you the best memories becomes a memory</p>	
 							</article>
