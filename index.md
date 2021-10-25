@@ -72,7 +72,7 @@
 								<p></p>
 								
 								<h2>How to contact me?</h2>
-                                <p>You can contact me on My <a href="https://telegram.dog/Akki_ThePro"> Telegram </p> 
+                                <p>You can contact me on My <a href="https://telegram.dog/Akki_ThePro"> Telegram</p> 
                                                             <h2> Something that I had learnt from my life</h2>
 							    <p>The saddest part of life is when the person who gave you the best memories becomes a memory</p>	
 							</article>
