@@ -17,7 +17,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<span class="image"><img src="https://te.legra.ph/file/b5c198ec603c7228097d7.jpg" width="440" height="440" alt="none" /></span>
+						<span class="image"><img src="https://te.legra.ph/file/b5c198ec603c7228097d7.jpg" width="220" height="220" alt="none" /></span>
 						<div class="content">
 							<div class="inner">
 								<h1>Akshat's Portfolio</h1>
