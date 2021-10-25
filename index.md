@@ -73,31 +73,10 @@
 								
 								<h2>How to contact me?</h2>
                                 <p>You can contact me on My <a href="https://telegram.dog/Akki_ThePro"> Telegram</p> 
+                                                            
                                                             <h2> Something that I had learnt from my life</h2>
 							    <p>The saddest part of life is when the person who gave you the best memories becomes a memory</p>	
 							</article>
-
-						
-						<!-- Elements -->
-							<article id="elements">
-								<h2 class="major">Elements</h2>
-
-								<section>
-									<h3 class="major">Text</h3>
-									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
-									<hr />
-									<h2>Heading Level 2</h2>
-									<h3>Heading Level 3</h3>
-									<h4>Heading Level 4</h4>
-									<h5>Heading Level 5</h5>
-									<h6>Heading Level 6</h6>
-									<hr />
-									<h4>Blockquote</h4>
-									<blockquote>Only for example.</blockquote>
-									<h4>Preformatted</h4>
-									<pre><code>i = 0;
 
 while (!deck.isInOrder()) {
     print 'Iteration ' + i;
