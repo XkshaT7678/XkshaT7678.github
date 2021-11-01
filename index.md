@@ -50,7 +50,7 @@
 								<p></p>
 								<h2 class="major">Projects</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
-								<p>As i am a serious programmer . I Loves to play with the codes and make something cool stuff..
+								<p>I Loves to play with the codes and make something cool stuff..
 								<p>WHAT IS GITHUB AND WHY I LOVES IT?</p>
 								<span class="image main"><img src="images/pic06.png" alt="none" /></span>
 								<p>GitHub, Inc. is an American multinational corporation that provides hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. Headquartered in California, it has been a subsidiary of Microsoft since 2018.
@@ -62,8 +62,8 @@
 							<article id="about">
 								<h2 class="major">About</h2>
 								<span class="image "><img src="https://telegra.ph/file/889b424d79978a10cc68c.jpg" width="240" height="120" alt="" /></span>
-								<p>Hey my name is Akshat (Or as you all knows me as "Akki ThePro"), I am born in Delhi, the capital of the province of India. It's a dynamic metropolis with a core of soaring skyscrapers, all dwarfed by the iconic, free-standing CN Tower..</p>
-								<p>Coding and programming is my Passion and My life and i loves it</p>
+								<p>Hey my name is Akshat (Or as you all knows me as "Akki ThePro"), I am born in Delhi, the capital of India.</p>
+
 								<p></p>
 								<h3 class="major">Why i love to code?</h3>
 								<span class="image "><img src="https://telegra.ph/file/ae75837515a8a57d50c9e.jpg" width="420" height="420" alt="" /></span>
